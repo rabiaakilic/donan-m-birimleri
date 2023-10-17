@@ -9,3 +9,14 @@ C:\Users\User\Desktop\KORUMASIZ\rabia\DONANIM BİRİMLERİ\DONANIM BİRİMLERİ\
 C:\Users\User\Desktop\KORUMASIZ\rabia\DONANIM BİRİMLERİ\DONANIM BİRİMLERİ\obj\Debug\DONANIM BİRİMLERİ-1359.csproj.CoreCompileInputs.cache
 C:\Users\User\Desktop\KORUMASIZ\rabia\DONANIM BİRİMLERİ\DONANIM BİRİMLERİ\obj\Debug\DONANIM BİRİMLERİ.exe
 C:\Users\User\Desktop\KORUMASIZ\rabia\DONANIM BİRİMLERİ\DONANIM BİRİMLERİ\obj\Debug\DONANIM BİRİMLERİ.pdb
+C:\Users\User\Downloads\donan-m-birimleri-main\DONANIM BİRİMLERİ\bin\Debug\DONANIM BİRİMLERİ.exe.config
+C:\Users\User\Downloads\donan-m-birimleri-main\DONANIM BİRİMLERİ\bin\Debug\DONANIM BİRİMLERİ.exe
+C:\Users\User\Downloads\donan-m-birimleri-main\DONANIM BİRİMLERİ\bin\Debug\DONANIM BİRİMLERİ.pdb
+C:\Users\User\Downloads\donan-m-birimleri-main\DONANIM BİRİMLERİ\obj\Debug\DONANIM BİRİMLERİ-1359.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\donan-m-birimleri-main\DONANIM BİRİMLERİ\obj\Debug\DONANIM BİRİMLERİ-1359.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Downloads\donan-m-birimleri-main\DONANIM BİRİMLERİ\obj\Debug\DONANIM_BİRİMLERİ.Form1.resources
+C:\Users\User\Downloads\donan-m-birimleri-main\DONANIM BİRİMLERİ\obj\Debug\DONANIM_BİRİMLERİ.Properties.Resources.resources
+C:\Users\User\Downloads\donan-m-birimleri-main\DONANIM BİRİMLERİ\obj\Debug\DONANIM BİRİMLERİ-1359.csproj.GenerateResource.cache
+C:\Users\User\Downloads\donan-m-birimleri-main\DONANIM BİRİMLERİ\obj\Debug\DONANIM BİRİMLERİ-1359.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\donan-m-birimleri-main\DONANIM BİRİMLERİ\obj\Debug\DONANIM BİRİMLERİ.exe
+C:\Users\User\Downloads\donan-m-birimleri-main\DONANIM BİRİMLERİ\obj\Debug\DONANIM BİRİMLERİ.pdb

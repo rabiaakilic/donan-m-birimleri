@@ -20,7 +20,7 @@ namespace DONANIM_BİRİMLERİ
         private void btnKonturolet_Click(object sender, EventArgs e)
         {
             string secim;
-            secim = listBox1.SelectedItems.ToString();
+            secim = listBox1.SelectedItem.ToString();
             if(secim == "mause"|| secim== "klavye" || secim == "kamera" || secim == "tarayıcı")
             {
                 MessageBox.Show("bu parça , giriş birimidir.");
